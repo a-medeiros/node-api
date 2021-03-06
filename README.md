@@ -12,7 +12,7 @@ git clone https://github.com/a-medeiros/node-api.git
 ```
 Instale as depêndencias do backend:
 ```
-cd node-api/
+cd node-api
 execute no terminal o comando: npm install
 ```
 
